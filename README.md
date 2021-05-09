@@ -12,4 +12,4 @@ Ale bedzie dobrze
 
 3 proba zmiany
 
-# Zmodyfikowane po dodaniu do github
+to jest zmiana na github
