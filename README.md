@@ -11,3 +11,5 @@ Ale bedzie dobrze
 2 zmiana - Ala ma kota, my mamy pythona
 
 3 proba zmiany
+
+to jest zmiana na github
