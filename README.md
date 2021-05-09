@@ -7,3 +7,5 @@ Ale bedzie dobrze
 # Wojtek przybij piatke :)
 
 1 zmiana
+
+2 zmiana - Ala ma kota, my mamy pythona
